@@ -24,7 +24,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/minio/s3v2tov4-proxy/s3auth"
+	"github.com/halachmi/s3v2tov4-proxy/s3auth"
 	"github.com/vulcand/oxy/forward"
 )
 
