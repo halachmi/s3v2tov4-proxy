@@ -18,7 +18,7 @@ If you do not have a working Golang environment, please follow [How to install G
 
 ```sh
 
-$ go get github.com/minio/s3v2tov4-proxy
+$ go get github.com/halachmi/s3v2tov4-proxy
 
 ```
 
